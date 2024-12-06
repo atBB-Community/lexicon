@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=https://boat.kelinci.net/lexicon-document.json
 ---
 lexicon: 1
 id: space.atbb.post
